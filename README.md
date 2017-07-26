@@ -1,4 +1,4 @@
-# Phone Bot Type_0
+# AudioEliza
 This is a vocal version of the good old Eliza callbot, now more accessible than ever on Skype bot directory!  
 ![image](https://user-images.githubusercontent.com/8624828/27903187-eef230ce-626a-11e7-80cf-0c36ea28b175.png)
 
