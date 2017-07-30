@@ -3,8 +3,8 @@ When the original ELIZA first appeared in the 60's, some people actually mistook
 It takes your sentence and reflects it into a question through string substitution and pattern matching. Transforming "Tell me what you think about me" into "You want me to tell you what I think about you?" creating a simple illusion of understanding.
 This project brings speech (Bing Speech) to Eliza through the high accessibility of Skype. To start chat, click on our live link to add the bot to your Skype contacts:
 
-Step 1: call it and start talking
-Step 2: To end the call just say “bye” or click on “End call”
+__Step 1__: call it and start talking  
+__Step 2__: To end the call just say “bye” or click on “End call”  
 
 ![image](https://user-images.githubusercontent.com/8624828/27903187-eef230ce-626a-11e7-80cf-0c36ea28b175.png)
 
