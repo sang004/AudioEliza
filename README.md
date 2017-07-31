@@ -1,5 +1,11 @@
-# Phone Bot Type_0
-This is a vocal version of the good old Eliza callbot, now more accessible than ever on Skype bot directory!  
+# AudioEliza
+When the original ELIZA first appeared in the 60's, some people actually mistook her for human. The illusion of intelligence works best, however, if you limit your conversation to talking about yourself and your life. It was text-based however, which was quite convincing during the age of IRC chatrooms and such.  
+It takes your sentence and reflects it into a question through string substitution and pattern matching. Transforming "Tell me what you think about me" into "You want me to tell you what I think about you?" creating a simple illusion of understanding.  
+This project brings speech (Bing Speech) to Eliza through the high accessibility of Skype. To start chat, click on our live link to add the bot to your Skype contacts:  
+
+__Step 1__: call it and start talking  
+__Step 2__: To end the call just say “bye” or click on “End call”  
+
 ![image](https://user-images.githubusercontent.com/8624828/27903187-eef230ce-626a-11e7-80cf-0c36ea28b175.png)
 
 ## Table of Content
@@ -10,8 +16,7 @@ This is a vocal version of the good old Eliza callbot, now more accessible than 
 [Local installation](#local)  
 [Azure installation](#azure)  
 [Authors](#authors)  
-[License](#license)  
-[Built With](#built-with)  
+[License](#license)    
 
 ## Getting Started
 
@@ -158,6 +163,3 @@ Please read [CONTRIBUTING.md]() for details on our code of conduct, and the proc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
