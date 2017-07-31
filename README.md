@@ -1,12 +1,13 @@
 # AudioEliza
 When the original ELIZA first appeared in the 60's, some people actually mistook her for human. The illusion of intelligence works best, however, if you limit your conversation to talking about yourself and your life. It was text-based however, which was quite convincing during the age of IRC chatrooms and such.  
+
 It takes your sentence and reflects it into a question through string substitution and pattern matching. Transforming "Tell me what you think about me" into "You want me to tell you what I think about you?" creating a simple illusion of understanding.  
 This project brings speech (Bing Speech) to Eliza through the high accessibility of Skype. To start chat, click on our live link to add the bot to your Skype contacts:  
+[![Add the bot](https://user-images.githubusercontent.com/8290469/28764707-816c05dc-75f9-11e7-83b0-a37abae0cf49.jpg)](https://join.skype.com/bot/f3b40a59-84c6-49f8-a769-bf664049e370)
 
 __Step 1__: call it and start talking  
 __Step 2__: To end the call just say “bye” or click on “End call”  
 
-[![Add the bot](https://user-images.githubusercontent.com/8290469/28764707-816c05dc-75f9-11e7-83b0-a37abae0cf49.jpg)](https://join.skype.com/bot/f3b40a59-84c6-49f8-a769-bf664049e370)
 
 ## Table of Content
 
