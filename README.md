@@ -6,7 +6,7 @@ This project brings speech (Bing Speech) to Eliza through the high accessibility
 __Step 1__: call it and start talking  
 __Step 2__: To end the call just say “bye” or click on “End call”  
 
-![image](https://user-images.githubusercontent.com/8624828/27903187-eef230ce-626a-11e7-80cf-0c36ea28b175.png)
+[![Add the bot](https://user-images.githubusercontent.com/8290469/28764707-816c05dc-75f9-11e7-83b0-a37abae0cf49.jpg)](https://join.skype.com/bot/f3b40a59-84c6-49f8-a769-bf664049e370)
 
 ## Table of Content
 
