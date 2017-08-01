@@ -1,4 +1,4 @@
-# AudioEliza
+# Audio Eliza
 When the original computer psychotherapist [ELIZA](https://en.wikipedia.org/wiki/ELIZA) first appeared in the 60's, some people actually mistook her for human. It was text-based however, which was quite convincing during the age of IRC chatrooms.  ELIZA takes your sentence and reflects it into a question through string substitution and pattern matching. Transforming "Tell me what you think about me" into "You want me to tell you what I think about you?" creating a simple illusion of understanding.  
 
 This project brings speech (Bing Speech) to Eliza through the high accessibility of Skype. To start talking with the Skype-bot version ELIZA, click on our live link to add the bot to your Skype contacts:  
@@ -17,6 +17,7 @@ __Step 2__: To end the call just say “bye” or click on “End call”
 [Azure installation](#azure)  
 [Authors](#authors)  
 [License](#license)    
+[Developer guide](https://github.com/sang004/AudioEliza/wiki)
 
 ## Getting Started
 
